@@ -1,0 +1,11 @@
+{
+    "name": "histogram",
+    "version": "0.1.0",
+    "url": "https://github.com/cpm-examples/histogram",
+    "description": "A C library for working with ppm image histograms",
+    "author": "YassenEfremov",
+    "license": "",
+    "dependencies": [
+        "ppm"
+    ]
+}
