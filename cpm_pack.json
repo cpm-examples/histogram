@@ -5,7 +5,7 @@
     "description": "A C library for working with ppm image histograms",
     "author": "YassenEfremov",
     "license": "",
-    "dependencies": [
-        "ppm"
-    ]
+    "dependencies": {
+        "ppm": "0.1.0"
+    }
 }
